@@ -1,4 +1,4 @@
-# Classic-Volume-Mixer-Installer
+# Classic Volume Mixer Installer
 Script for building the installer for Classic Volume Mixer
 
 ---
